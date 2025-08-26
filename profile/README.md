@@ -19,7 +19,7 @@ Unser Anspruch: **Sicherheit praxisnah, verständlich und umsetzbar** – für M
 ## 🛠️ Verfügbare Tools
 - **Blackfort Security Bridge (Defender ↔ Jira Connector)**  
   Bringt Sicherheitsmeldungen aus *Microsoft Defender for Endpoint* automatisch als Tickets nach *Atlassian Jira*.  
-  ➝ [Zum Repository](./Blackfort-Security-Bridge)
+  ➝ [Zum Repository](https://github.com/Blackfort-Technology/Blackfort-Security-Bridge)
 
 ---
 
@@ -61,7 +61,7 @@ Our mission: **making security practical, understandable, and actionable** – f
 ## 🛠️ Available Tools
 - **Blackfort Security Bridge (Defender ↔ Jira Connector)**  
   Transfers security alerts from *Microsoft Defender for Endpoint* automatically into *Atlassian Jira* tickets.  
-  ➝ [Go to repository](./Blackfort-Security-Bridge)
+  ➝ [Go to repository](https://github.com/Blackfort-Technology/Blackfort-Security-Bridge)
 
 ---
 
